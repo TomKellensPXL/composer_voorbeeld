@@ -1,0 +1,6 @@
+{
+  "require": {
+    "monolog/monolog": "3.*",
+    "tdtrung17693/php-chalk": "^1.0"
+  }
+}
